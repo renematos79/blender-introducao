@@ -1,6 +1,11 @@
 # Blender - Introdução
 Blender 2.78c - Curso Básico - Projeto do curso
 
+# Informações úteis
+Versão utilizada do blender: 2.78c </br>
+Link para download: https://www.blender.org/ </br>
+Não há pré-requisitos para este curso 
+
 # Sobre o curso
 Neste novo curso veremos como criar objetos 3d usando o blender versão 2.78, aplicar textura, iluminação, animá-los e exportá-los para o Unity. 
 
