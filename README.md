@@ -1,4 +1,4 @@
-# blender-introducao
+# Blender - Introdução
 Blender 2.78c - Curso Básico - Projeto do curso
 
 # Sobre o curso
